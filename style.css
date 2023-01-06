@@ -193,3 +193,16 @@ footer h1{
 footer h5{
     color: white;
 }
+.s-icon{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.s-icon img{
+    padding: 0 10px;
+    width: 30px;
+}
+.s-icon img:hover{
+    transform: scale(1.3);
+    
+}
