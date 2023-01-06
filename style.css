@@ -85,6 +85,7 @@
 .count-input{
     width: 60%;
     border: 0;
+    border-bottom: 1px solid black;
     margin-top: 20px;
     height: 35px;
     text-align: center;
